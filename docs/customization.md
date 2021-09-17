@@ -79,6 +79,8 @@ color_scheme: foo
 
 ### Switchable custom scheme
 
+Qwerty.
+
 If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name)
 with the following content:`
 
